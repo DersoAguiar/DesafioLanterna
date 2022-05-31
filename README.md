@@ -9,8 +9,8 @@ Construindo um app usando o sensor de movimento com React Native.
 
 ## Conteúdo
 
-- Libs react-native-shake e react-native-torch
-- StyleSheet
-- Hook useState e useEffect
-- addListener to RNShake
-- LifeCicle ReactJS
+- Libs react-native-shake e react-native-torch;
+- StyleSheet;
+- Hook useState e useEffect;
+- addListener to RNShake;
+- LifeCicle ReactJS;
